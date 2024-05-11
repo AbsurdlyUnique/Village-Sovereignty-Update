@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "vsu:emerald_helmet",
+    "vsu:emerald_chestplate",
+    "vsu:emerald_leggings",
+    "vsu:emerald_boots"
+  ]
+}
